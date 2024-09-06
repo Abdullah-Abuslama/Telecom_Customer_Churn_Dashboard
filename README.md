@@ -31,7 +31,7 @@ Based on the insights, the following strategies are recommended:
 
 ## Dataset
 
-The dataset used for this project can be found on Kaggle: [Telecom Customer Churn Dataset](https://github.com/Abdullah-Abuslama/Telecomm-Customer-Churn-Dashboard.git).
+The dataset used for this project can be found on Kaggle: [Telecom Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## License
 
