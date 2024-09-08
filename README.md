@@ -1,4 +1,4 @@
-# Telecomm Customer Churn Dashboard
+# Telecom Customer Churn Dashboard
 
 This repository contains an interactive dashboard project focused on analyzing customer churn in the telecommunications industry. The project was created using Excel as part of my training at NTI and is based on a telecom dataset from Kaggle.
 
